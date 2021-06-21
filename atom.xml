@@ -109,9 +109,9 @@
     
     
     
-    <category term="App" scheme="http://harveyjanson.github.io/categories/App/"/>
-    
     <category term="Apple" scheme="http://harveyjanson.github.io/categories/Apple/"/>
+    
+    <category term="App" scheme="http://harveyjanson.github.io/categories/App/"/>
     
     
     <category term="iOS" scheme="http://harveyjanson.github.io/tags/iOS/"/>
@@ -322,9 +322,9 @@
     
     <category term="翻译" scheme="http://harveyjanson.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
     
-    <category term="读书" scheme="http://harveyjanson.github.io/categories/%E8%AF%BB%E4%B9%A6/"/>
-    
     <category term="About Me" scheme="http://harveyjanson.github.io/categories/About-Me/"/>
+    
+    <category term="读书" scheme="http://harveyjanson.github.io/categories/%E8%AF%BB%E4%B9%A6/"/>
     
     
     <category term="GSTI" scheme="http://harveyjanson.github.io/tags/GSTI/"/>
