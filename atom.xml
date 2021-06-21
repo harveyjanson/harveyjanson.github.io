@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexagon Joint</title>
+  
+  
+  <link href="http://harveyjanson.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://harveyjanson.github.io/"/>
+  <updated>2021-06-21T15:54:16.688Z</updated>
+  <id>http://harveyjanson.github.io/</id>
+  
+  <author>
+    <name>Harvey Janson</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>每日一句｜may</title>
+    <link href="http://harveyjanson.github.io/2021/06/19/2021-06-19-may-not/"/>
+    <id>http://harveyjanson.github.io/2021/06/19/2021-06-19-may-not/</id>
+    <published>2021-06-19T08:45:00.000Z</published>
+    <updated>2021-06-21T15:54:16.688Z</updated>
+    
+    
+    <summary type="html">原以为只存在于教学中的错误，没想到竟然真有人犯。</summary>
+    
+    
+    
+    <category term="翻译" scheme="http://harveyjanson.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
+    
+    <category term="Apple" scheme="http://harveyjanson.github.io/categories/Apple/"/>
+    
+    
+    <category term="每日一句" scheme="http://harveyjanson.github.io/tags/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/"/>
+    
+    <category term="WWDC" scheme="http://harveyjanson.github.io/tags/WWDC/"/>
+    
+    <category term="设计" scheme="http://harveyjanson.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>WWDC 2021 「简短」感想</title>
+    <link href="http://harveyjanson.github.io/2021/06/08/2021-06-08-WWDC-2021/"/>
+    <id>http://harveyjanson.github.io/2021/06/08/2021-06-08-WWDC-2021/</id>
+    <published>2021-06-07T19:00:00.000Z</published>
+    <updated>2021-06-08T10:04:32.782Z</updated>
+    
+    
+    <summary type="html">苹果在尽力保证三大端功能一致；这对有些设备是好事，对全家桶用户是好事，但对某些生态位上的设备就未必了。</summary>
+    
+    
+    
+    <category term="Apple" scheme="http://harveyjanson.github.io/categories/Apple/"/>
+    
+    
+    <category term="iOS" scheme="http://harveyjanson.github.io/tags/iOS/"/>
+    
+    <category term="iPadOS" scheme="http://harveyjanson.github.io/tags/iPadOS/"/>
+    
+    <category term="WWDC" scheme="http://harveyjanson.github.io/tags/WWDC/"/>
+    
+    <category term="watchOS" scheme="http://harveyjanson.github.io/tags/watchOS/"/>
+    
+    <category term="tvOS" scheme="http://harveyjanson.github.io/tags/tvOS/"/>
+    
+    <category term="macOS" scheme="http://harveyjanson.github.io/tags/macOS/"/>
+    
+    <category term="Swift" scheme="http://harveyjanson.github.io/tags/Swift/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>译文｜字号无用，是否有解？</title>
+    <link href="http://harveyjanson.github.io/2021/05/18/2021-05-16-font-size-zh-trans/"/>
+    <id>http://harveyjanson.github.io/2021/05/18/2021-05-16-font-size-zh-trans/</id>
+    <published>2021-05-18T03:15:00.000Z</published>
+    <updated>2021-06-08T11:54:04.136Z</updated>
+    
+    
+    <summary type="html">&lt;article class=&quot;message is-warning&quot;&gt;
+  &lt;div class=&quot;message-body&quot;&gt;
+    本文翻译自 &lt;a href=&quot;https://tonsky.me/blog/font-size/&quot;&gt;Font size is useless; let’s fix it&lt;/a&gt;，已获作者授权。
+  &lt;/div&gt;
+&lt;/article&gt;</summary>
+    
+    
+    
+    <category term="翻译" scheme="http://harveyjanson.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
+    
+    
+    <category term="字体" scheme="http://harveyjanson.github.io/tags/%E5%AD%97%E4%BD%93/"/>
+    
+    <category term="设计" scheme="http://harveyjanson.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>shiftscreen：「完整」的 iPadOS 外接屏幕体验</title>
+    <link href="http://harveyjanson.github.io/2021/03/17/2021-03-17-shiftscreen/"/>
+    <id>http://harveyjanson.github.io/2021/03/17/2021-03-17-shiftscreen/</id>
+    <published>2021-03-17T01:10:00.000Z</published>
+    <updated>2021-04-11T02:52:07.593Z</updated>
+    
+    
+    <summary type="html">既然美好的未来还没来，那就先用 shiftscreen 找找感觉吧。</summary>
+    
+    
+    
+    <category term="App" scheme="http://harveyjanson.github.io/categories/App/"/>
+    
+    <category term="Apple" scheme="http://harveyjanson.github.io/categories/Apple/"/>
+    
+    
+    <category term="iOS" scheme="http://harveyjanson.github.io/tags/iOS/"/>
+    
+    <category term="iPadOS" scheme="http://harveyjanson.github.io/tags/iPadOS/"/>
+    
+    <category term="显示器" scheme="http://harveyjanson.github.io/tags/%E6%98%BE%E7%A4%BA%E5%99%A8/"/>
+    
+    <category term="iPad" scheme="http://harveyjanson.github.io/tags/iPad/"/>
+    
+    <category term="iPhone" scheme="http://harveyjanson.github.io/tags/iPhone/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于「屏幕使用时间」出现 24 小时使用量的 bug</title>
+    <link href="http://harveyjanson.github.io/2021/03/09/2021-03-09-screen-time-24h-bug/"/>
+    <id>http://harveyjanson.github.io/2021/03/09/2021-03-09-screen-time-24h-bug/</id>
+    <published>2021-03-09T02:09:49.000Z</published>
+    <updated>2021-03-09T05:04:44.770Z</updated>
+    
+    
+    <summary type="html">该化身苹果客服了。</summary>
+    
+    
+    
+    <category term="Apple" scheme="http://harveyjanson.github.io/categories/Apple/"/>
+    
+    
+    <category term="Screen Time" scheme="http://harveyjanson.github.io/tags/Screen-Time/"/>
+    
+    <category term="bug" scheme="http://harveyjanson.github.io/tags/bug/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>About Me｜我是怎么读 GWR 的</title>
+    <link href="http://harveyjanson.github.io/2021/03/07/2021-03-07-gwr-1/"/>
+    <id>http://harveyjanson.github.io/2021/03/07/2021-03-07-gwr-1/</id>
+    <published>2021-03-07T05:29:43.000Z</published>
+    <updated>2021-04-11T02:56:55.129Z</updated>
+    
+    
+    <summary type="html">大长篇这就开始了。</summary>
+    
+    
+    
+    <category term="翻译" scheme="http://harveyjanson.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
+    
+    <category term="About Me" scheme="http://harveyjanson.github.io/categories/About-Me/"/>
+    
+    
+    <category term="GWR" scheme="http://harveyjanson.github.io/tags/GWR/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日一句｜「主义」</title>
+    <link href="http://harveyjanson.github.io/2021/01/19/2021-01-19-ismus/"/>
+    <id>http://harveyjanson.github.io/2021/01/19/2021-01-19-ismus/</id>
+    <published>2021-01-19T05:29:27.000Z</published>
+    <updated>2021-04-11T02:55:45.553Z</updated>
+    
+    
+    <summary type="html">「主義」-&gt;「しゅぎ」-&gt;「主义」。</summary>
+    
+    
+    
+    <category term="翻译" scheme="http://harveyjanson.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
+    
+    
+    <category term="每日一句" scheme="http://harveyjanson.github.io/tags/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>读书｜读书札记方法论</title>
+    <link href="http://harveyjanson.github.io/2021/01/07/2021-01-07-tiago-forte/"/>
+    <id>http://harveyjanson.github.io/2021/01/07/2021-01-07-tiago-forte/</id>
+    <published>2021-01-07T05:29:15.000Z</published>
+    <updated>2021-04-11T02:53:54.236Z</updated>
+    
+    
+    <summary type="html">读书也要讲方法。</summary>
+    
+    
+    
+    <category term="读书" scheme="http://harveyjanson.github.io/categories/%E8%AF%BB%E4%B9%A6/"/>
+    
+    
+    <category term="Tiago Forte" scheme="http://harveyjanson.github.io/tags/Tiago-Forte/"/>
+    
+    <category term="progressive summary" scheme="http://harveyjanson.github.io/tags/progressive-summary/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>读书笔记：Translation and Conflict: A Narrative Account</title>
+    <link href="http://harveyjanson.github.io/2021/01/07/2021-01-07-translation-conflict/"/>
+    <id>http://harveyjanson.github.io/2021/01/07/2021-01-07-translation-conflict/</id>
+    <published>2021-01-07T05:29:01.000Z</published>
+    <updated>2021-04-11T02:56:02.985Z</updated>
+    
+    
+    <summary type="html">&lt;article class=&quot;message is-success&quot;&gt;
+  &lt;div class=&quot;message-body&quot;&gt;
+    本文同时发于微信公众号。
+  &lt;/div&gt;
+&lt;/article&gt;
+
+&lt;p&gt;这篇读书笔记，是我在学校读书时，应某门课的作业要求而写的。读完 &lt;a href=&quot;https://fortelabs.co/blog/the-ultimate-guide-to-summarizing-books/&quot;&gt;Tiago Forte 的这篇文章&lt;/a&gt; 后，感觉这套读书方法很合自己的口味，便决定实践之，一来检验自己学习的成果，二来为这个内容贫瘠的平台添点料，三来巩固一下自己的读书所学，兼为拓展拙文中因偷懒而没有展开叙述的内容，补好 loose ends。&lt;/p&gt;
+&lt;p&gt;关于 Tiago Forte 这篇文章的文章，我也在少数派上写过，同样搬到 &lt;a href=&quot;/p/tiago-forte/&quot;&gt;博客&lt;/a&gt; 上来。&lt;/p&gt;
+&lt;p&gt;为保证阅读体验，方便索引，本文添加了章节标题。文中除错别字外，不会进行改动。新添加内容，会单独启段，专门叙述。文末参考文献按照课程要求，使用 MLA 格式，而非翻译专业一般要求的 APA 格式，本文亦不予更换。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="翻译" scheme="http://harveyjanson.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
+    
+    <category term="读书" scheme="http://harveyjanson.github.io/categories/%E8%AF%BB%E4%B9%A6/"/>
+    
+    
+    <category term="Tiago Forte" scheme="http://harveyjanson.github.io/tags/Tiago-Forte/"/>
+    
+    <category term="Mona Baker" scheme="http://harveyjanson.github.io/tags/Mona-Baker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日一句｜「文明」</title>
+    <link href="http://harveyjanson.github.io/2020/12/21/2020-12-21-civilization/"/>
+    <id>http://harveyjanson.github.io/2020/12/21/2020-12-21-civilization/</id>
+    <published>2020-12-21T05:27:58.000Z</published>
+    <updated>2021-04-11T02:57:17.598Z</updated>
+    
+    
+    <summary type="html">看来该把「你以为你以为的就是你以为的？」开成个系列。</summary>
+    
+    
+    
+    <category term="翻译" scheme="http://harveyjanson.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
+    
+    
+    <category term="每日一句" scheme="http://harveyjanson.github.io/tags/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/"/>
+    
+    <category term="十八大报告" scheme="http://harveyjanson.github.io/tags/%E5%8D%81%E5%85%AB%E5%A4%A7%E6%8A%A5%E5%91%8A/"/>
+    
+    <category term="十九大报告" scheme="http://harveyjanson.github.io/tags/%E5%8D%81%E4%B9%9D%E5%A4%A7%E6%8A%A5%E5%91%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日一句｜强调</title>
+    <link href="http://harveyjanson.github.io/2020/12/13/2020-12-13-emphasis/"/>
+    <id>http://harveyjanson.github.io/2020/12/13/2020-12-13-emphasis/</id>
+    <published>2020-12-13T05:27:14.000Z</published>
+    <updated>2021-04-11T02:57:22.109Z</updated>
+    
+    
+    <summary type="html">你以为你以为的就是你以为的？</summary>
+    
+    
+    
+    <category term="翻译" scheme="http://harveyjanson.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
+    
+    
+    <category term="每日一句" scheme="http://harveyjanson.github.io/tags/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/"/>
+    
+    <category term="China Daily" scheme="http://harveyjanson.github.io/tags/China-Daily/"/>
+    
+    <category term="语法" scheme="http://harveyjanson.github.io/tags/%E8%AF%AD%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>读书｜打倒外国人口中的「中式英语」！</title>
+    <link href="http://harveyjanson.github.io/2020/12/12/2020-12-12-chinglish/"/>
+    <id>http://harveyjanson.github.io/2020/12/12/2020-12-12-chinglish/</id>
+    <published>2020-12-12T05:27:33.000Z</published>
+    <updated>2021-04-11T02:57:25.618Z</updated>
+    
+    
+    <summary type="html">尽信书不如无书。</summary>
+    
+    
+    
+    <category term="翻译" scheme="http://harveyjanson.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
+    
+    <category term="读书" scheme="http://harveyjanson.github.io/categories/%E8%AF%BB%E4%B9%A6/"/>
+    
+    
+    <category term="Chinglish" scheme="http://harveyjanson.github.io/tags/Chinglish/"/>
+    
+    <category term="Plain English" scheme="http://harveyjanson.github.io/tags/Plain-English/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>About Me｜高翻有哪些阅读书目？</title>
+    <link href="http://harveyjanson.github.io/2020/11/12/2020-11-12-gsti-books/"/>
+    <id>http://harveyjanson.github.io/2020/11/12/2020-11-12-gsti-books/</id>
+    <published>2020-11-12T05:26:55.000Z</published>
+    <updated>2021-04-11T02:58:16.025Z</updated>
+    
+    
+    <summary type="html">新系列开张。</summary>
+    
+    
+    
+    <category term="翻译" scheme="http://harveyjanson.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
+    
+    <category term="读书" scheme="http://harveyjanson.github.io/categories/%E8%AF%BB%E4%B9%A6/"/>
+    
+    <category term="About Me" scheme="http://harveyjanson.github.io/categories/About-Me/"/>
+    
+    
+    <category term="GSTI" scheme="http://harveyjanson.github.io/tags/GSTI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日一句｜「积极」</title>
+    <link href="http://harveyjanson.github.io/2020/11/04/2020-11-04-aggressive/"/>
+    <id>http://harveyjanson.github.io/2020/11/04/2020-11-04-aggressive/</id>
+    <published>2020-11-04T05:26:31.000Z</published>
+    <updated>2021-04-11T02:58:31.965Z</updated>
+    
+    
+    <summary type="html">积极复积极。</summary>
+    
+    
+    
+    <category term="翻译" scheme="http://harveyjanson.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
+    
+    
+    <category term="每日一句" scheme="http://harveyjanson.github.io/tags/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日一句｜「趋稳」</title>
+    <link href="http://harveyjanson.github.io/2020/11/04/2020-11-04-flat/"/>
+    <id>http://harveyjanson.github.io/2020/11/04/2020-11-04-flat/</id>
+    <published>2020-11-04T05:25:54.000Z</published>
+    <updated>2021-04-11T02:58:23.720Z</updated>
+    
+    
+    <summary type="html">翻译也要会算数。</summary>
+    
+    
+    
+    <category term="翻译" scheme="http://harveyjanson.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
+    
+    
+    <category term="每日一句" scheme="http://harveyjanson.github.io/tags/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>从「常态化防控」说开去——兼论译法的历时性与共时性</title>
+    <link href="http://harveyjanson.github.io/2020/11/01/2020-11-01-prevention/"/>
+    <id>http://harveyjanson.github.io/2020/11/01/2020-11-01-prevention/</id>
+    <published>2020-11-01T05:18:16.000Z</published>
+    <updated>2021-04-11T02:58:40.087Z</updated>
+    
+    
+    <summary type="html">以小见大。</summary>
+    
+    
+    
+    <category term="翻译" scheme="http://harveyjanson.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
+    
+    
+    <category term="GWR" scheme="http://harveyjanson.github.io/tags/GWR/"/>
+    
+    <category term="COVID-19" scheme="http://harveyjanson.github.io/tags/COVID-19/"/>
+    
+  </entry>
+  
+</feed>
