@@ -91,9 +91,9 @@
     <category term="翻译" scheme="http://harveyjanson.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
     
     
-    <category term="设计" scheme="http://harveyjanson.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
-    
     <category term="字体" scheme="http://harveyjanson.github.io/tags/%E5%AD%97%E4%BD%93/"/>
+    
+    <category term="设计" scheme="http://harveyjanson.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
     
   </entry>
   
@@ -322,9 +322,9 @@
     
     <category term="翻译" scheme="http://harveyjanson.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
     
-    <category term="About Me" scheme="http://harveyjanson.github.io/categories/About-Me/"/>
-    
     <category term="读书" scheme="http://harveyjanson.github.io/categories/%E8%AF%BB%E4%B9%A6/"/>
+    
+    <category term="About Me" scheme="http://harveyjanson.github.io/categories/About-Me/"/>
     
     
     <category term="GSTI" scheme="http://harveyjanson.github.io/tags/GSTI/"/>
