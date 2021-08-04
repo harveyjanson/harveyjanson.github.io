@@ -6,7 +6,7 @@
   <link href="http://harveyjanson.github.io/atom.xml" rel="self"/>
   
   <link href="http://harveyjanson.github.io/"/>
-  <updated>2021-06-21T15:54:16.688Z</updated>
+  <updated>2021-08-04T05:18:45.081Z</updated>
   <id>http://harveyjanson.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>译文｜自建博客哪家强？</title>
+    <link href="http://harveyjanson.github.io/2021/08/04/2021-08-02-personal-blog-zh-trans/"/>
+    <id>http://harveyjanson.github.io/2021/08/04/2021-08-02-personal-blog-zh-trans/</id>
+    <published>2021-08-04T05:20:00.000Z</published>
+    <updated>2021-08-04T05:18:45.081Z</updated>
+    
+    
+    <summary type="html">&lt;article class=&quot;message is-warning&quot;&gt;
+  &lt;div class=&quot;message-body&quot;&gt;
+    本文翻译自 &lt;a href=&quot;https://www.arun.is/blog/where-to-build-host-your-personal-site/&quot;&gt;Where to build and host your personal website&lt;/a&gt;。
+  &lt;/div&gt;
+&lt;/article&gt;</summary>
+    
+    
+    
+    <category term="翻译" scheme="http://harveyjanson.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
+    
+    
+    <category term="Blog" scheme="http://harveyjanson.github.io/tags/Blog/"/>
+    
+  </entry>
   
   <entry>
     <title>每日一句｜may</title>
@@ -56,11 +79,11 @@
     <category term="Apple" scheme="http://harveyjanson.github.io/categories/Apple/"/>
     
     
-    <category term="WWDC" scheme="http://harveyjanson.github.io/tags/WWDC/"/>
-    
     <category term="iOS" scheme="http://harveyjanson.github.io/tags/iOS/"/>
     
     <category term="iPadOS" scheme="http://harveyjanson.github.io/tags/iPadOS/"/>
+    
+    <category term="WWDC" scheme="http://harveyjanson.github.io/tags/WWDC/"/>
     
     <category term="watchOS" scheme="http://harveyjanson.github.io/tags/watchOS/"/>
     
@@ -233,9 +256,9 @@
     <category term="读书" scheme="http://harveyjanson.github.io/categories/%E8%AF%BB%E4%B9%A6/"/>
     
     
-    <category term="Tiago Forte" scheme="http://harveyjanson.github.io/tags/Tiago-Forte/"/>
-    
     <category term="Mona Baker" scheme="http://harveyjanson.github.io/tags/Mona-Baker/"/>
+    
+    <category term="Tiago Forte" scheme="http://harveyjanson.github.io/tags/Tiago-Forte/"/>
     
   </entry>
   
@@ -322,9 +345,9 @@
     
     <category term="翻译" scheme="http://harveyjanson.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
     
-    <category term="About Me" scheme="http://harveyjanson.github.io/categories/About-Me/"/>
-    
     <category term="读书" scheme="http://harveyjanson.github.io/categories/%E8%AF%BB%E4%B9%A6/"/>
+    
+    <category term="About Me" scheme="http://harveyjanson.github.io/categories/About-Me/"/>
     
     
     <category term="GSTI" scheme="http://harveyjanson.github.io/tags/GSTI/"/>
