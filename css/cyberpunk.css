@@ -10771,6 +10771,8 @@ body > .section {
   overflow: hidden;
   border-top-left-radius: 0;
   border-top-right-radius: 0;
+  margin-left: 0;
+  margin-right: 0;
 }
 .card .media + .media {
   border: none;

@@ -10770,6 +10770,8 @@ body > .section {
   overflow: hidden;
   border-top-left-radius: 4px;
   border-top-right-radius: 4px;
+  margin-left: 0;
+  margin-right: 0;
 }
 .card .media + .media {
   border: none;
