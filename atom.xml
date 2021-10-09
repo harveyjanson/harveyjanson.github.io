@@ -6,7 +6,7 @@
   <link href="http://harveyjanson.github.io/atom.xml" rel="self"/>
   
   <link href="http://harveyjanson.github.io/"/>
-  <updated>2021-08-04T05:57:49.564Z</updated>
+  <updated>2021-10-09T14:53:25.923Z</updated>
   <id>http://harveyjanson.github.io/</id>
   
   <author>
@@ -17,11 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>shiftscreen 4X：多窗口交互再升级</title>
+    <link href="http://harveyjanson.github.io/2021/10/09/2021-10-09-shiftscreen-4x/"/>
+    <id>http://harveyjanson.github.io/2021/10/09/2021-10-09-shiftscreen-4x/</id>
+    <published>2021-10-09T07:00:00.000Z</published>
+    <updated>2021-10-09T14:53:25.923Z</updated>
+    
+    
+    <summary type="html">「售价 ¥50，我觉得值」。</summary>
+    
+    
+    
+    <category term="App" scheme="http://harveyjanson.github.io/categories/App/"/>
+    
+    <category term="Apple" scheme="http://harveyjanson.github.io/categories/Apple/"/>
+    
+    
+    <category term="iOS" scheme="http://harveyjanson.github.io/tags/iOS/"/>
+    
+    <category term="iPadOS" scheme="http://harveyjanson.github.io/tags/iPadOS/"/>
+    
+    <category term="显示器" scheme="http://harveyjanson.github.io/tags/%E6%98%BE%E7%A4%BA%E5%99%A8/"/>
+    
+    <category term="iPad" scheme="http://harveyjanson.github.io/tags/iPad/"/>
+    
+    <category term="iPhone" scheme="http://harveyjanson.github.io/tags/iPhone/"/>
+    
+  </entry>
+  
+  <entry>
     <title>译文｜自建博客哪家强？</title>
     <link href="http://harveyjanson.github.io/2021/08/04/2021-08-04-personal-blog-zh-trans/"/>
     <id>http://harveyjanson.github.io/2021/08/04/2021-08-04-personal-blog-zh-trans/</id>
     <published>2021-08-04T05:20:00.000Z</published>
-    <updated>2021-08-04T05:57:49.564Z</updated>
+    <updated>2021-08-04T06:00:11.882Z</updated>
     
     
     <summary type="html">&lt;article class=&quot;message is-warning&quot;&gt;
@@ -60,9 +89,9 @@
     
     <category term="每日一句" scheme="http://harveyjanson.github.io/tags/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/"/>
     
-    <category term="设计" scheme="http://harveyjanson.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
-    
     <category term="WWDC" scheme="http://harveyjanson.github.io/tags/WWDC/"/>
+    
+    <category term="设计" scheme="http://harveyjanson.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
     
   </entry>
   
@@ -71,7 +100,7 @@
     <link href="http://harveyjanson.github.io/2021/06/08/2021-06-08-WWDC-2021/"/>
     <id>http://harveyjanson.github.io/2021/06/08/2021-06-08-WWDC-2021/</id>
     <published>2021-06-07T19:00:00.000Z</published>
-    <updated>2021-06-08T10:04:32.782Z</updated>
+    <updated>2021-10-08T16:58:49.195Z</updated>
     
     
     <summary type="html">苹果在尽力保证三大端功能一致；这对有些设备是好事，对全家桶用户是好事，但对某些生态位上的设备就未必了。</summary>
@@ -116,9 +145,9 @@
     <category term="翻译" scheme="http://harveyjanson.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
     
     
-    <category term="字体" scheme="http://harveyjanson.github.io/tags/%E5%AD%97%E4%BD%93/"/>
-    
     <category term="设计" scheme="http://harveyjanson.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="字体" scheme="http://harveyjanson.github.io/tags/%E5%AD%97%E4%BD%93/"/>
     
   </entry>
   
@@ -127,16 +156,16 @@
     <link href="http://harveyjanson.github.io/2021/03/17/2021-03-17-shiftscreen/"/>
     <id>http://harveyjanson.github.io/2021/03/17/2021-03-17-shiftscreen/</id>
     <published>2021-03-17T01:10:00.000Z</published>
-    <updated>2021-04-11T02:52:07.593Z</updated>
+    <updated>2021-10-08T16:58:45.145Z</updated>
     
     
     <summary type="html">既然美好的未来还没来，那就先用 shiftscreen 找找感觉吧。</summary>
     
     
     
-    <category term="Apple" scheme="http://harveyjanson.github.io/categories/Apple/"/>
-    
     <category term="App" scheme="http://harveyjanson.github.io/categories/App/"/>
+    
+    <category term="Apple" scheme="http://harveyjanson.github.io/categories/Apple/"/>
     
     
     <category term="iOS" scheme="http://harveyjanson.github.io/tags/iOS/"/>
@@ -258,9 +287,9 @@
     <category term="读书" scheme="http://harveyjanson.github.io/categories/%E8%AF%BB%E4%B9%A6/"/>
     
     
-    <category term="Mona Baker" scheme="http://harveyjanson.github.io/tags/Mona-Baker/"/>
-    
     <category term="Tiago Forte" scheme="http://harveyjanson.github.io/tags/Tiago-Forte/"/>
+    
+    <category term="Mona Baker" scheme="http://harveyjanson.github.io/tags/Mona-Baker/"/>
     
   </entry>
   
@@ -347,9 +376,9 @@
     
     <category term="翻译" scheme="http://harveyjanson.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
     
-    <category term="读书" scheme="http://harveyjanson.github.io/categories/%E8%AF%BB%E4%B9%A6/"/>
-    
     <category term="About Me" scheme="http://harveyjanson.github.io/categories/About-Me/"/>
+    
+    <category term="读书" scheme="http://harveyjanson.github.io/categories/%E8%AF%BB%E4%B9%A6/"/>
     
     
     <category term="GSTI" scheme="http://harveyjanson.github.io/tags/GSTI/"/>
