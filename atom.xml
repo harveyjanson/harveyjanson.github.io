@@ -6,7 +6,7 @@
   <link href="http://harveyjanson.github.io/atom.xml" rel="self"/>
   
   <link href="http://harveyjanson.github.io/"/>
-  <updated>2021-10-09T15:44:52.198Z</updated>
+  <updated>2021-10-10T14:48:39.599Z</updated>
   <id>http://harveyjanson.github.io/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>「新玩意」合集——第 1 期？</title>
+    <link href="http://harveyjanson.github.io/2021/10/10/2021-10-10-newstuff-01/"/>
+    <id>http://harveyjanson.github.io/2021/10/10/2021-10-10-newstuff-01/</id>
+    <published>2021-10-10T14:34:26.000Z</published>
+    <updated>2021-10-10T14:48:39.599Z</updated>
+    
+    
+    <summary type="html">所谓「敝帚自珍」是也。</summary>
+    
+    
+    
+    <category term="新玩意" scheme="http://harveyjanson.github.io/categories/%E6%96%B0%E7%8E%A9%E6%84%8F/"/>
+    
+    
+    <category term="积木" scheme="http://harveyjanson.github.io/tags/%E7%A7%AF%E6%9C%A8/"/>
+    
+    <category term="充电头" scheme="http://harveyjanson.github.io/tags/%E5%85%85%E7%94%B5%E5%A4%B4/"/>
+    
+  </entry>
+  
+  <entry>
     <title>shiftscreen 4X：多窗口交互再升级</title>
     <link href="http://harveyjanson.github.io/2021/10/09/2021-10-09-shiftscreen-4x/"/>
     <id>http://harveyjanson.github.io/2021/10/09/2021-10-09-shiftscreen-4x/</id>
-    <published>2021-10-09T07:00:00.000Z</published>
-    <updated>2021-10-09T15:44:52.198Z</updated>
+    <published>2021-10-09T15:59:59.000Z</published>
+    <updated>2021-10-10T14:48:37.954Z</updated>
     
     
     <summary type="html">「售价 ¥50，我觉得值」。</summary>
@@ -89,9 +110,9 @@
     
     <category term="每日一句" scheme="http://harveyjanson.github.io/tags/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/"/>
     
-    <category term="设计" scheme="http://harveyjanson.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
-    
     <category term="WWDC" scheme="http://harveyjanson.github.io/tags/WWDC/"/>
+    
+    <category term="设计" scheme="http://harveyjanson.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
     
   </entry>
   
@@ -145,9 +166,9 @@
     <category term="翻译" scheme="http://harveyjanson.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
     
     
-    <category term="设计" scheme="http://harveyjanson.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
-    
     <category term="字体" scheme="http://harveyjanson.github.io/tags/%E5%AD%97%E4%BD%93/"/>
+    
+    <category term="设计" scheme="http://harveyjanson.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
     
   </entry>
   
