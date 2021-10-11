@@ -42,7 +42,7 @@
     <link href="http://harveyjanson.github.io/2021/10/09/2021-10-09-shiftscreen-4x/"/>
     <id>http://harveyjanson.github.io/2021/10/09/2021-10-09-shiftscreen-4x/</id>
     <published>2021-10-09T15:59:59.000Z</published>
-    <updated>2021-10-10T14:48:37.954Z</updated>
+    <updated>2021-10-11T06:31:26.531Z</updated>
     
     
     <summary type="html">「售价 ¥50，我觉得值」。</summary>
@@ -110,9 +110,9 @@
     
     <category term="每日一句" scheme="http://harveyjanson.github.io/tags/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/"/>
     
-    <category term="WWDC" scheme="http://harveyjanson.github.io/tags/WWDC/"/>
-    
     <category term="设计" scheme="http://harveyjanson.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="WWDC" scheme="http://harveyjanson.github.io/tags/WWDC/"/>
     
   </entry>
   
@@ -131,11 +131,11 @@
     <category term="Apple" scheme="http://harveyjanson.github.io/categories/Apple/"/>
     
     
+    <category term="WWDC" scheme="http://harveyjanson.github.io/tags/WWDC/"/>
+    
     <category term="iOS" scheme="http://harveyjanson.github.io/tags/iOS/"/>
     
     <category term="iPadOS" scheme="http://harveyjanson.github.io/tags/iPadOS/"/>
-    
-    <category term="WWDC" scheme="http://harveyjanson.github.io/tags/WWDC/"/>
     
     <category term="watchOS" scheme="http://harveyjanson.github.io/tags/watchOS/"/>
     
@@ -308,9 +308,9 @@
     <category term="读书" scheme="http://harveyjanson.github.io/categories/%E8%AF%BB%E4%B9%A6/"/>
     
     
-    <category term="Mona Baker" scheme="http://harveyjanson.github.io/tags/Mona-Baker/"/>
-    
     <category term="Tiago Forte" scheme="http://harveyjanson.github.io/tags/Tiago-Forte/"/>
+    
+    <category term="Mona Baker" scheme="http://harveyjanson.github.io/tags/Mona-Baker/"/>
     
   </entry>
   
