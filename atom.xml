@@ -6,7 +6,7 @@
   <link href="http://harveyjanson.github.io/atom.xml" rel="self"/>
   
   <link href="http://harveyjanson.github.io/"/>
-  <updated>2021-10-19T04:53:25.333Z</updated>
+  <updated>2021-10-28T15:18:17.379Z</updated>
   <id>http://harveyjanson.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用 Wallpapper 制作动态壁纸</title>
+    <link href="http://harveyjanson.github.io/2021/10/28/2021-10-28-wallpapper/"/>
+    <id>http://harveyjanson.github.io/2021/10/28/2021-10-28-wallpapper/</id>
+    <published>2021-10-28T13:57:18.000Z</published>
+    <updated>2021-10-28T15:18:17.379Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;很久之前，我受 Good Fucking Design Advice 启发，想做一套随系统主题切换的壁纸。四处搜索，找到了 &lt;a href=&quot;https://github.com/mczachurski/wallpapper/blob/master/README.md&quot;&gt;Wallpapper&lt;/a&gt;。考虑到 Wallpapper 的 GitHub 页面只提供了英文版的使用说明，这篇文章就用中文介绍一下 Wallpapper 怎么用。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="App" scheme="http://harveyjanson.github.io/categories/App/"/>
+    
+    
+    <category term="macOS" scheme="http://harveyjanson.github.io/tags/macOS/"/>
+    
+    <category term="壁纸" scheme="http://harveyjanson.github.io/tags/%E5%A3%81%E7%BA%B8/"/>
+    
+  </entry>
   
   <entry>
     <title>Apple 十月发布会杂谈</title>
@@ -131,9 +152,9 @@
     
     <category term="每日一句" scheme="http://harveyjanson.github.io/tags/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/"/>
     
-    <category term="WWDC" scheme="http://harveyjanson.github.io/tags/WWDC/"/>
-    
     <category term="设计" scheme="http://harveyjanson.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="WWDC" scheme="http://harveyjanson.github.io/tags/WWDC/"/>
     
   </entry>
   
@@ -152,11 +173,11 @@
     <category term="Apple" scheme="http://harveyjanson.github.io/categories/Apple/"/>
     
     
+    <category term="WWDC" scheme="http://harveyjanson.github.io/tags/WWDC/"/>
+    
     <category term="iOS" scheme="http://harveyjanson.github.io/tags/iOS/"/>
     
     <category term="iPadOS" scheme="http://harveyjanson.github.io/tags/iPadOS/"/>
-    
-    <category term="WWDC" scheme="http://harveyjanson.github.io/tags/WWDC/"/>
     
     <category term="watchOS" scheme="http://harveyjanson.github.io/tags/watchOS/"/>
     
@@ -187,9 +208,9 @@
     <category term="翻译" scheme="http://harveyjanson.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
     
     
-    <category term="字体" scheme="http://harveyjanson.github.io/tags/%E5%AD%97%E4%BD%93/"/>
-    
     <category term="设计" scheme="http://harveyjanson.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="字体" scheme="http://harveyjanson.github.io/tags/%E5%AD%97%E4%BD%93/"/>
     
   </entry>
   
@@ -329,9 +350,9 @@
     <category term="读书" scheme="http://harveyjanson.github.io/categories/%E8%AF%BB%E4%B9%A6/"/>
     
     
-    <category term="Mona Baker" scheme="http://harveyjanson.github.io/tags/Mona-Baker/"/>
-    
     <category term="Tiago Forte" scheme="http://harveyjanson.github.io/tags/Tiago-Forte/"/>
+    
+    <category term="Mona Baker" scheme="http://harveyjanson.github.io/tags/Mona-Baker/"/>
     
   </entry>
   
@@ -418,9 +439,9 @@
     
     <category term="翻译" scheme="http://harveyjanson.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
     
-    <category term="About Me" scheme="http://harveyjanson.github.io/categories/About-Me/"/>
-    
     <category term="读书" scheme="http://harveyjanson.github.io/categories/%E8%AF%BB%E4%B9%A6/"/>
+    
+    <category term="About Me" scheme="http://harveyjanson.github.io/categories/About-Me/"/>
     
     
     <category term="GSTI" scheme="http://harveyjanson.github.io/tags/GSTI/"/>
