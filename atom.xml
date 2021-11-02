@@ -6,7 +6,7 @@
   <link href="http://harveyjanson.github.io/atom.xml" rel="self"/>
   
   <link href="http://harveyjanson.github.io/"/>
-  <updated>2021-10-28T15:21:06.383Z</updated>
+  <updated>2021-11-02T02:45:36.871Z</updated>
   <id>http://harveyjanson.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>每日一句｜「者也」</title>
+    <link href="http://harveyjanson.github.io/2021/11/02/2021-11-02-zheye/"/>
+    <id>http://harveyjanson.github.io/2021/11/02/2021-11-02-zheye/</id>
+    <published>2021-11-02T02:42:23.000Z</published>
+    <updated>2021-11-02T02:45:36.871Z</updated>
+    
+    
+    <summary type="html">&lt;article class=&quot;message is-success&quot;&gt;
+  &lt;div class=&quot;message-body&quot;&gt;
+    本文同时发于微信公众号。
+  &lt;/div&gt;
+&lt;/article&gt;</summary>
+    
+    
+    
+    <category term="翻译" scheme="http://harveyjanson.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
+    
+    
+    <category term="每日一句" scheme="http://harveyjanson.github.io/tags/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/"/>
+    
+  </entry>
   
   <entry>
     <title>使用 Wallpapper 制作动态壁纸</title>
@@ -93,9 +116,9 @@
     
     
     
-    <category term="App" scheme="http://harveyjanson.github.io/categories/App/"/>
-    
     <category term="Apple" scheme="http://harveyjanson.github.io/categories/Apple/"/>
+    
+    <category term="App" scheme="http://harveyjanson.github.io/categories/App/"/>
     
     
     <category term="iOS" scheme="http://harveyjanson.github.io/tags/iOS/"/>
@@ -129,9 +152,9 @@
     <category term="翻译" scheme="http://harveyjanson.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
     
     
-    <category term="设计" scheme="http://harveyjanson.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
-    
     <category term="Blog" scheme="http://harveyjanson.github.io/tags/Blog/"/>
+    
+    <category term="设计" scheme="http://harveyjanson.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
     
   </entry>
   
@@ -154,9 +177,9 @@
     
     <category term="每日一句" scheme="http://harveyjanson.github.io/tags/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/"/>
     
-    <category term="设计" scheme="http://harveyjanson.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
-    
     <category term="WWDC" scheme="http://harveyjanson.github.io/tags/WWDC/"/>
+    
+    <category term="设计" scheme="http://harveyjanson.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
     
   </entry>
   
@@ -175,11 +198,11 @@
     <category term="Apple" scheme="http://harveyjanson.github.io/categories/Apple/"/>
     
     
+    <category term="WWDC" scheme="http://harveyjanson.github.io/tags/WWDC/"/>
+    
     <category term="iOS" scheme="http://harveyjanson.github.io/tags/iOS/"/>
     
     <category term="iPadOS" scheme="http://harveyjanson.github.io/tags/iPadOS/"/>
-    
-    <category term="WWDC" scheme="http://harveyjanson.github.io/tags/WWDC/"/>
     
     <category term="watchOS" scheme="http://harveyjanson.github.io/tags/watchOS/"/>
     
@@ -210,9 +233,9 @@
     <category term="翻译" scheme="http://harveyjanson.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
     
     
-    <category term="字体" scheme="http://harveyjanson.github.io/tags/%E5%AD%97%E4%BD%93/"/>
-    
     <category term="设计" scheme="http://harveyjanson.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="字体" scheme="http://harveyjanson.github.io/tags/%E5%AD%97%E4%BD%93/"/>
     
   </entry>
   
@@ -228,9 +251,9 @@
     
     
     
-    <category term="App" scheme="http://harveyjanson.github.io/categories/App/"/>
-    
     <category term="Apple" scheme="http://harveyjanson.github.io/categories/Apple/"/>
+    
+    <category term="App" scheme="http://harveyjanson.github.io/categories/App/"/>
     
     
     <category term="iOS" scheme="http://harveyjanson.github.io/tags/iOS/"/>
