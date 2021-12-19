@@ -6,7 +6,7 @@
   <link href="http://harveyjanson.github.io/atom.xml" rel="self"/>
   
   <link href="http://harveyjanson.github.io/"/>
-  <updated>2021-12-19T08:18:28.950Z</updated>
+  <updated>2021-12-19T08:22:42.136Z</updated>
   <id>http://harveyjanson.github.io/</id>
   
   <author>
@@ -21,16 +21,10 @@
     <link href="http://harveyjanson.github.io/2021/12/19/2021-12-19-dynamic-wallpaper-2/"/>
     <id>http://harveyjanson.github.io/2021/12/19/2021-12-19-dynamic-wallpaper-2/</id>
     <published>2021-12-19T08:15:00.000Z</published>
-    <updated>2021-12-19T08:18:28.950Z</updated>
+    <updated>2021-12-19T08:22:42.136Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
+    <summary type="html">前文见 &lt;a href=&quot;https://harveyjanson.github.io/2021/10/28/2021-10-28-wallpapper/&quot;&gt;使用 wallpapper 制作动态壁纸&lt;/a&gt;。</summary>
     
     
     
@@ -180,9 +174,9 @@
     
     
     
-    <category term="Apple" scheme="http://harveyjanson.github.io/categories/Apple/"/>
-    
     <category term="App" scheme="http://harveyjanson.github.io/categories/App/"/>
+    
+    <category term="Apple" scheme="http://harveyjanson.github.io/categories/Apple/"/>
     
     
     <category term="iOS" scheme="http://harveyjanson.github.io/tags/iOS/"/>
@@ -262,11 +256,11 @@
     <category term="Apple" scheme="http://harveyjanson.github.io/categories/Apple/"/>
     
     
-    <category term="WWDC" scheme="http://harveyjanson.github.io/tags/WWDC/"/>
-    
     <category term="iOS" scheme="http://harveyjanson.github.io/tags/iOS/"/>
     
     <category term="iPadOS" scheme="http://harveyjanson.github.io/tags/iPadOS/"/>
+    
+    <category term="WWDC" scheme="http://harveyjanson.github.io/tags/WWDC/"/>
     
     <category term="watchOS" scheme="http://harveyjanson.github.io/tags/watchOS/"/>
     
@@ -315,9 +309,9 @@
     
     
     
-    <category term="Apple" scheme="http://harveyjanson.github.io/categories/Apple/"/>
-    
     <category term="App" scheme="http://harveyjanson.github.io/categories/App/"/>
+    
+    <category term="Apple" scheme="http://harveyjanson.github.io/categories/Apple/"/>
     
     
     <category term="iOS" scheme="http://harveyjanson.github.io/tags/iOS/"/>
