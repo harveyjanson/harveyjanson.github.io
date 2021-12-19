@@ -6,7 +6,7 @@
   <link href="http://harveyjanson.github.io/atom.xml" rel="self"/>
   
   <link href="http://harveyjanson.github.io/"/>
-  <updated>2021-12-19T08:22:42.136Z</updated>
+  <updated>2021-12-19T08:25:15.285Z</updated>
   <id>http://harveyjanson.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://harveyjanson.github.io/2021/12/19/2021-12-19-dynamic-wallpaper-2/"/>
     <id>http://harveyjanson.github.io/2021/12/19/2021-12-19-dynamic-wallpaper-2/</id>
     <published>2021-12-19T08:15:00.000Z</published>
-    <updated>2021-12-19T08:22:42.136Z</updated>
+    <updated>2021-12-19T08:25:15.285Z</updated>
     
     
     <summary type="html">前文见 &lt;a href=&quot;https://harveyjanson.github.io/2021/10/28/2021-10-28-wallpapper/&quot;&gt;使用 wallpapper 制作动态壁纸&lt;/a&gt;。</summary>
@@ -174,9 +174,9 @@
     
     
     
-    <category term="App" scheme="http://harveyjanson.github.io/categories/App/"/>
-    
     <category term="Apple" scheme="http://harveyjanson.github.io/categories/Apple/"/>
+    
+    <category term="App" scheme="http://harveyjanson.github.io/categories/App/"/>
     
     
     <category term="iOS" scheme="http://harveyjanson.github.io/tags/iOS/"/>
@@ -309,9 +309,9 @@
     
     
     
-    <category term="App" scheme="http://harveyjanson.github.io/categories/App/"/>
-    
     <category term="Apple" scheme="http://harveyjanson.github.io/categories/Apple/"/>
+    
+    <category term="App" scheme="http://harveyjanson.github.io/categories/App/"/>
     
     
     <category term="iOS" scheme="http://harveyjanson.github.io/tags/iOS/"/>
@@ -433,9 +433,9 @@
     <category term="读书" scheme="http://harveyjanson.github.io/categories/%E8%AF%BB%E4%B9%A6/"/>
     
     
-    <category term="Mona Baker" scheme="http://harveyjanson.github.io/tags/Mona-Baker/"/>
-    
     <category term="Tiago Forte" scheme="http://harveyjanson.github.io/tags/Tiago-Forte/"/>
+    
+    <category term="Mona Baker" scheme="http://harveyjanson.github.io/tags/Mona-Baker/"/>
     
   </entry>
   
@@ -522,9 +522,9 @@
     
     <category term="翻译" scheme="http://harveyjanson.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
     
-    <category term="About Me" scheme="http://harveyjanson.github.io/categories/About-Me/"/>
-    
     <category term="读书" scheme="http://harveyjanson.github.io/categories/%E8%AF%BB%E4%B9%A6/"/>
+    
+    <category term="About Me" scheme="http://harveyjanson.github.io/categories/About-Me/"/>
     
     
     <category term="GSTI" scheme="http://harveyjanson.github.io/tags/GSTI/"/>
