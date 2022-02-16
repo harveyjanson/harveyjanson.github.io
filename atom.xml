@@ -44,7 +44,7 @@
     <link href="http://harveyjanson.github.io/2021/12/08/2021-12-08-apple-watch-world-time-face/"/>
     <id>http://harveyjanson.github.io/2021/12/08/2021-12-08-apple-watch-world-time-face/</id>
     <published>2021-12-08T05:20:00.000Z</published>
-    <updated>2021-12-08T09:02:47.819Z</updated>
+    <updated>2022-02-16T07:31:16.951Z</updated>
     
     
     <summary type="html">&lt;article class=&quot;message is-warning&quot;&gt;
@@ -174,9 +174,9 @@
     
     
     
-    <category term="Apple" scheme="http://harveyjanson.github.io/categories/Apple/"/>
-    
     <category term="App" scheme="http://harveyjanson.github.io/categories/App/"/>
+    
+    <category term="Apple" scheme="http://harveyjanson.github.io/categories/Apple/"/>
     
     
     <category term="iOS" scheme="http://harveyjanson.github.io/tags/iOS/"/>
@@ -235,9 +235,9 @@
     
     <category term="每日一句" scheme="http://harveyjanson.github.io/tags/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/"/>
     
-    <category term="WWDC" scheme="http://harveyjanson.github.io/tags/WWDC/"/>
-    
     <category term="设计" scheme="http://harveyjanson.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="WWDC" scheme="http://harveyjanson.github.io/tags/WWDC/"/>
     
   </entry>
   
@@ -291,9 +291,9 @@
     <category term="翻译" scheme="http://harveyjanson.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
     
     
-    <category term="设计" scheme="http://harveyjanson.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
-    
     <category term="字体" scheme="http://harveyjanson.github.io/tags/%E5%AD%97%E4%BD%93/"/>
+    
+    <category term="设计" scheme="http://harveyjanson.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
     
   </entry>
   
@@ -309,9 +309,9 @@
     
     
     
-    <category term="Apple" scheme="http://harveyjanson.github.io/categories/Apple/"/>
-    
     <category term="App" scheme="http://harveyjanson.github.io/categories/App/"/>
+    
+    <category term="Apple" scheme="http://harveyjanson.github.io/categories/Apple/"/>
     
     
     <category term="iOS" scheme="http://harveyjanson.github.io/tags/iOS/"/>
