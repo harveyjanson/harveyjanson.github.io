@@ -235,9 +235,9 @@
     
     <category term="每日一句" scheme="http://harveyjanson.github.io/tags/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/"/>
     
-    <category term="WWDC" scheme="http://harveyjanson.github.io/tags/WWDC/"/>
-    
     <category term="设计" scheme="http://harveyjanson.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="WWDC" scheme="http://harveyjanson.github.io/tags/WWDC/"/>
     
   </entry>
   
