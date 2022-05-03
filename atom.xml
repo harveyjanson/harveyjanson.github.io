@@ -6,7 +6,7 @@
   <link href="http://harveyjanson.github.io/atom.xml" rel="self"/>
   
   <link href="http://harveyjanson.github.io/"/>
-  <updated>2021-12-19T10:16:21.265Z</updated>
+  <updated>2022-05-03T15:39:26.763Z</updated>
   <id>http://harveyjanson.github.io/</id>
   
   <author>
@@ -15,6 +15,68 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>译文｜Web app 中的滚动条：梦回 1984</title>
+    <link href="http://harveyjanson.github.io/2022/05/03/2022-05-03-web-app-scrollbars/"/>
+    <id>http://harveyjanson.github.io/2022/05/03/2022-05-03-web-app-scrollbars/</id>
+    <published>2022-05-03T15:59:59.000Z</published>
+    <updated>2022-05-03T15:39:26.763Z</updated>
+    
+    
+    <summary type="html">&lt;article class=&quot;message is-warning&quot;&gt;
+  &lt;div class=&quot;message-body&quot;&gt;
+    本文翻译自 &lt;a href=&quot;https://height.app/blog/scrollbars-in-web-applications&quot;&gt;Building like it&#39;s 1984: Scrollbars in web applications&lt;/a&gt;，作者 Michael Vilar 为团队任务管理工具 Height 开发团队的成员。
+  &lt;/div&gt;
+&lt;/article&gt;
+
+&lt;p&gt;和上下文菜单（&lt;a href=&quot;https://height.app/blog/guide-to-build-context-menus&quot;&gt;context menus&lt;/a&gt;）一样，滚动条（scrollbars）可说是无处不在，但无论是用户、开发者，还是设计师，都很少会对它们细细打量。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="翻译" scheme="http://harveyjanson.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
+    
+    <category term="设计" scheme="http://harveyjanson.github.io/categories/%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+    <category term="macOS" scheme="http://harveyjanson.github.io/tags/macOS/"/>
+    
+    <category term="Scrollbar" scheme="http://harveyjanson.github.io/tags/Scrollbar/"/>
+    
+    <category term="Web App" scheme="http://harveyjanson.github.io/tags/Web-App/"/>
+    
+    <category term="Windows" scheme="http://harveyjanson.github.io/tags/Windows/"/>
+    
+    <category term="UX" scheme="http://harveyjanson.github.io/tags/UX/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>译文｜如何改进网页与邮件中的链接？</title>
+    <link href="http://harveyjanson.github.io/2022/02/16/2022-02-16-designing-better-links/"/>
+    <id>http://harveyjanson.github.io/2022/02/16/2022-02-16-designing-better-links/</id>
+    <published>2022-02-16T07:35:00.000Z</published>
+    <updated>2022-05-03T07:30:46.156Z</updated>
+    
+    
+    <summary type="html">&lt;article class=&quot;message is-warning&quot;&gt;
+  &lt;div class=&quot;message-body&quot;&gt;
+    本文翻译自 &lt;a href=&quot;https://uxdesign.cc/designing-better-links-for-websites-and-emails-a-guideline-5b8638ce675a&quot;&gt;Designing better links for websites and emails — a guideline&lt;/a&gt;，部分表述针对中文互联网做了改动。
+  &lt;/div&gt;
+&lt;/article&gt;
+
+&lt;p&gt;为什么「在这里」「点此链接」之类的表述都很差劲？「阅读更多」到底能不能用？本文将逐一详述。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="翻译" scheme="http://harveyjanson.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
+    
+    <category term="设计" scheme="http://harveyjanson.github.io/categories/%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+    <category term="Link" scheme="http://harveyjanson.github.io/tags/Link/"/>
+    
+  </entry>
   
   <entry>
     <title>其他制作动态壁纸的方法： DWBuilder 和 Equinox</title>
@@ -44,7 +106,7 @@
     <link href="http://harveyjanson.github.io/2021/12/08/2021-12-08-apple-watch-world-time-face/"/>
     <id>http://harveyjanson.github.io/2021/12/08/2021-12-08-apple-watch-world-time-face/</id>
     <published>2021-12-08T05:20:00.000Z</published>
-    <updated>2022-02-16T07:31:16.951Z</updated>
+    <updated>2022-05-03T07:32:28.410Z</updated>
     
     
     <summary type="html">&lt;article class=&quot;message is-warning&quot;&gt;
@@ -291,9 +353,9 @@
     <category term="翻译" scheme="http://harveyjanson.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
     
     
-    <category term="设计" scheme="http://harveyjanson.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
-    
     <category term="字体" scheme="http://harveyjanson.github.io/tags/%E5%AD%97%E4%BD%93/"/>
+    
+    <category term="设计" scheme="http://harveyjanson.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
     
   </entry>
   
@@ -433,9 +495,9 @@
     <category term="读书" scheme="http://harveyjanson.github.io/categories/%E8%AF%BB%E4%B9%A6/"/>
     
     
-    <category term="Tiago Forte" scheme="http://harveyjanson.github.io/tags/Tiago-Forte/"/>
-    
     <category term="Mona Baker" scheme="http://harveyjanson.github.io/tags/Mona-Baker/"/>
+    
+    <category term="Tiago Forte" scheme="http://harveyjanson.github.io/tags/Tiago-Forte/"/>
     
   </entry>
   
