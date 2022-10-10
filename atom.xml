@@ -6,7 +6,7 @@
   <link href="http://harveyjanson.github.io/atom.xml" rel="self"/>
   
   <link href="http://harveyjanson.github.io/"/>
-  <updated>2022-05-03T15:39:26.763Z</updated>
+  <updated>2022-10-10T15:09:10.137Z</updated>
   <id>http://harveyjanson.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>译文｜二维码要怎么读？</title>
+    <link href="http://harveyjanson.github.io/2022/10/10/2022-10-11-qr-code/"/>
+    <id>http://harveyjanson.github.io/2022/10/10/2022-10-11-qr-code/</id>
+    <published>2022-10-10T15:10:00.000Z</published>
+    <updated>2022-10-10T15:09:10.137Z</updated>
+    
+    
+    <summary type="html">&lt;article class=&quot;message is-warning&quot;&gt;
+  &lt;div class=&quot;message-body&quot;&gt;
+    本文翻译自 &lt;a href=&quot;https://typefully.com/DanHollick/qr-codes-T7tLlNi/&quot;&gt;QR codes&lt;/a&gt;，作者 &lt;a href=&quot;https://typefully.com/DanHollick/&quot;&gt;Dan Hollick 🇿🇦&lt;/a&gt;。
+  &lt;/div&gt;
+&lt;/article&gt;
+
+&lt;p&gt;你有没有好奇过，二维码到底是怎么个原理？笔者以前也没想过，但其实，二维码的工作原理，可谓是「低调奢华有内涵。」（⚠️ 注意，以下内容高度专业。👇）&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="翻译" scheme="http://harveyjanson.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
+    
+    <category term="设计" scheme="http://harveyjanson.github.io/categories/%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+    <category term="QR code" scheme="http://harveyjanson.github.io/tags/QR-code/"/>
+    
+  </entry>
   
   <entry>
     <title>译文｜Web app 中的滚动条：梦回 1984</title>
@@ -495,9 +522,9 @@
     <category term="读书" scheme="http://harveyjanson.github.io/categories/%E8%AF%BB%E4%B9%A6/"/>
     
     
-    <category term="Mona Baker" scheme="http://harveyjanson.github.io/tags/Mona-Baker/"/>
-    
     <category term="Tiago Forte" scheme="http://harveyjanson.github.io/tags/Tiago-Forte/"/>
+    
+    <category term="Mona Baker" scheme="http://harveyjanson.github.io/tags/Mona-Baker/"/>
     
   </entry>
   
